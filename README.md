@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI tools, and SaaS products**
 - 🌱 I’m currently learning **AI voice cloning, 3D web animation, and advanced automation**
-- 💬 Ask me about **Node.js, React.js, MongoDB, Firebase, Kotlin, ExoPlayer, Cloudflare, and n8n**
+- 💬 Ask me about **Node.js, React.js, Angular TS, Framer Motion, MongoDB, Firebase, Kotlin, ExoPlayer, Cloudflare, and n8n**
 - 📫 How to reach me: **jaiswalmohit217@gmail.com**
 - ⚡ Fun fact: I love building beautiful, efficient user interfaces and powerful backend architectures.
 
@@ -16,6 +16,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer--Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
