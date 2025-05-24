@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Jaiswal</h1>
-<h3 align="center">Software Developer @ <a target="_blank" href="http://nixiesindia.com/">Nixies India Technologies LLP</a></h3>
+<h3 align="center">Software Developer @ <a href="http://nixiesindia.com/" target="_blank">Nixies India Technologies LLP</a></h3>
 
 <p align="left">💻 With over <strong>2+ years</strong> of experience in full-stack development</p>
 
