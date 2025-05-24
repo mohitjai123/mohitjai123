@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohit Jaiswal</h1>
+<h3 align="center">Software Developer @ Nixies India Technologies LLP</h3>
 
-<!--
-**mohitjai123/mohitjai123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">💻 With over <strong>2 years</strong> of experience in full-stack development</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **AI tools, and SaaS products**
+- 🌱 I’m currently learning **AI voice cloning, 3D web animation, and advanced automation**
+- 💬 Ask me about **Node.js, React.js, MongoDB, Firebase, Kotlin, ExoPlayer, Cloudflare, and n8n**
+- 📫 How to reach me: **jaiswalmohit217@gmail.com**
+- ⚡ Fun fact: I love building beautiful, efficient user interfaces and powerful backend architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ExoPlayer-FF5722?style=for-the-badge&logo=google-play&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-A72323?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+</p>
