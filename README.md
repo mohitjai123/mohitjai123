@@ -37,3 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mohitjai123&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitjai123&layout=compact&theme=radical" />
 </p>
+
+[![Star on GitHub](https://img.shields.io/github/stars/mohitjai123/mohitjai123?style=social)](https://github.com/mohitjai123/mohitjai123)
+
