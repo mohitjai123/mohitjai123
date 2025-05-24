@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohit Jaiswal</h1>
 <h3 align="center">Software Developer @ Nixies India Technologies LLP</h3>
 
-<p align="left">💻 With over <strong>2 years</strong> of experience in full-stack development</p>
+<p align="left">💻 With over <strong>2+ years</strong> of experience in full-stack development</p>
 
 - 🔭 I’m currently working on **AI tools, and SaaS products**
 - 🌱 I’m currently learning **AI voice cloning, 3D web animation, and advanced automation**
-- 💬 Ask me about **Node.js, React.js, Angular TS, Framer Motion, MongoDB, Firebase, Kotlin, ExoPlayer, Cloudflare, and n8n**
+- 💬 Ask me about **Node.js, React.js, Angular TS, PHP, Framer Motion, MongoDB, Firebase, Kotlin, ExoPlayer, Cloudflare, and n8n**
 - 📫 How to reach me: **jaiswalmohit217@gmail.com**
 - ⚡ Fun fact: I love building beautiful, efficient user interfaces and powerful backend architectures.
 
